@@ -1,0 +1,15 @@
+Present tense verbs currently always end with a consonant. Their conjugation is
+currently dependent on the subject that performs the action.
+
+sgl.
+1st stem + ù
+2nd stem + ash
+3rd stem + ötfh
+
+plr.
+1st stem + ùp
+2nd stem + ashp
+3rd	stem + ötfhp
+
+As you can see, the Plural form is always formed with according to
+singular form + p
