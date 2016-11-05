@@ -5,7 +5,7 @@
 ![Consonants](https://github.com/LordSentox/umarema/blob/master/phonology/PNG/Umarema%20Consonants.png)
 *Primary consonants of Umarema*
 
-Umarema doesn't have an excessive amount of consonants, but isn't as bare-bones as a language like Japanese either. Most of its consonants come in voiced and voiceless pairs, with a notable exception being /s/, for which there is no equivalent /z/ sound in Umarema. It only has a single nasal, the /m/. Also unique, is that right now Umarema has three "r's": the trill, the German/French Uvular and the flap — only two the first two are phonemes, however.
+Umarema doesn't have an excessive amount of consonants, but isn't as bare-bones as a language like Japanese either. Most of its consonants come in voiced and voiceless pairs, with a notable exception being /s/, for which there is no equivalent /z/ sound in Umarema. It only has a single nasal, the /m/. Also unique, is that right now Umarema has three "r's": the trill, the German/French Uvular and the flap — only the first two are phonemes, however.
 
 #### Vowels ####
 ![Vowels](https://github.com/LordSentox/umarema/blob/master/phonology/PNG/Umarema%20Vowels.png)
