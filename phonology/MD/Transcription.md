@@ -22,3 +22,5 @@ u = /u/
 ü = /y/  
 ö = /œ/   
 e = /ɛ/  
+
+Legend: character = pronunciation
