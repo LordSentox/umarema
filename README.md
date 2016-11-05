@@ -1,4 +1,6 @@
 # Umarema #
+*/ɯmʌɾəmʌ/*
+
 Umarema is a conlang and occupational therapy of and for us and you.
 
 It is currently inspired mainly by Japanese and a few germanic languages.
