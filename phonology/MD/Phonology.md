@@ -21,8 +21,8 @@ Umarema will eventually have its own writing system, but words can be written us
 The converntions for transcribing Umarema are as follows:
 
 m = /m/ as in **m**an  
-tfh = /ð/ voiced th, as in **th**ey  
-tvh = /θ/ voiceless th, as in **th**ink  
+tfh = /θ/ voiceless th, as in **th**ink  
+tvh = /ð/ voiced th, as in **th**ey  
 p = /r/ Italian or Irish *r* as in **r**avioli   
 r = /ʁ/ German *r* as in **R**olladen  
 t = /t/ as in **t**ap  

@@ -8,8 +8,8 @@ It is currently inspired mainly by Japanese and a few germanic languages.
 Its primary contributors are a guy who studies computer languages and a guy who studies natural languages. They also have ambitions for creating a writing system made specifically for Umarema, but right now, if you want to write in Umarema, you can use the following transcription conventions:
 
 m = /m/ as in **m**an  
-tfh = /ð/ voiced th, as in **th**ey  
-tvh = /θ/ voiceless th, as in **th**ink  
+tfh = /θ/ voiceless th, as in **th**ink  
+tvh = /ð/ voiced th, as in **th**ey  
 p = /r/ Italian or Irish *r* as in **r**avioli   
 r = /ʁ/ German *r* as in **R**olladen  
 t = /t/ as in **t**ap  
