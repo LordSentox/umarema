@@ -34,4 +34,4 @@ Legend: character = pronunciation
 
 Head over to the [Phonology folder](https://github.com/LordSentox/umarema/tree/master/phonology) for more details.
 
-Right now, Umarema doesn't have a lot of words, or even a proper, fixed syntax, but ideas for new vocabulary or anything else are always welcome.
+At the moment, Umarema doesn't have a lot of words, or even a proper, fixed syntax, but ideas for new vocabulary or anything else are always welcome.
